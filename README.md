@@ -9,7 +9,7 @@ privately, ‘_creating_’ is the common thread in my life.
 As I keep trying to stretch the limits of my own knowledge,
 my understanding of, among other things,
 technical issues become increasingly unambiguous, and I
-often see the solutions in layered and defined structures. This, 
+often _see_ the solutions in layered and defined structures. This, 
 combined with in-depth and broad technical knowledge, allows me to not only
 envision solutions but also design and realise them.
 
