@@ -45,7 +45,7 @@ https://img.shields.io/badge/oLlama-lightgrey?style=for-the-badge&logo=ollama)
 ## How to reach me
 
 - Email: [rene@krewinkel.nl](mailto:rene@krewinkel.nl)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/renekrewinkel/)
+- [LinkedIn](https://www.linkedin.com/in/renekrewinkel/)
 
 
 ##  Languages and Tools
