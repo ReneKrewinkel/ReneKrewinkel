@@ -1,11 +1,11 @@
 # Hi there, I'm René Krewinkel 
 
 _I am a very experienced (30+ years) digital bohemian. 
-I'm currently working as a all round developer, front-end architect, 
+I'm currently working as an all round developer, front-end architect, 
 graphic/ux/ui designer, consultant and teacher in software development._
 
 Creativity defines me as a person—both professionally and
-privately, ‘creating’ is the common thread in my life.  
+privately, ‘_creating_’ is the common thread in my life.  
 As I keep trying to stretch the limits of my own knowledge,
 my understanding of, among other things,
 technical issues become increasingly unambiguous, and I
