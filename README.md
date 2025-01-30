@@ -14,21 +14,26 @@ https://img.shields.io/badge/JavaScript-lightyellow?style=for-the-badge&logo=jav
 https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
 ![Static Badge](
 https://img.shields.io/badge/TypeScript-lightblue?style=for-the-badge&logo=typescript)
-
 ![Static Badge](
 https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
 ![Static Badge](
-https://img.shields.io/badge/NeoVim-lightblue?style=for-the-badge&logo=neovim)
+https://img.shields.io/badge/NeoVim-lightgreen?style=for-the-badge&logo=neovim)
 ![Static Badge](
 https://img.shields.io/badge/WebStorm-blue?style=for-the-badge&logo=webstorm)
-
-
-
+![Static Badge](
+https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma)
+![Static Badge](
+https://img.shields.io/badge/Storybook-pink?style=for-the-badge&logo=storybook)
+![Static Badge](
+https://img.shields.io/badge/Chromatic-orange?style=for-the-badge&logo=chromatic)
 ![Static Badge](
 https://img.shields.io/badge/Open%20AI-grey?style=for-the-badge&logo=openai)
 ![Static Badge](
 https://img.shields.io/badge/oLlama-lightgrey?style=for-the-badge&logo=ollama)
-
+![Static Badge](
+https://img.shields.io/badge/Arch%20Linux-lightblue?style=for-the-badge&logo=archlinux)
+![Static Badge](
+https://img.shields.io/badge/MacOS-lightgrey?style=for-the-badge&logo=apple)
 
 ## My Showcase projects
 
@@ -56,6 +61,8 @@ https://img.shields.io/badge/oLlama-lightgrey?style=for-the-badge&logo=ollama)
 * Docker
 * NeoVim, WebStorm
 * OpenAI, Ollama
+* Storybook, Chromatic
+* Figma, Adobe Creative Suite
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's connect and create something amazing together!
 
