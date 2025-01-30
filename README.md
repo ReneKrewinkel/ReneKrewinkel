@@ -1,6 +1,19 @@
-# Hi there, I'm Rene Krewinkel 
+# Hi there, I'm René Krewinkel 
 
-I am a very experienced (30+ years) digital bohemian. I'm currently working as a front-end architect, graphic/ux/ui designer, consultant and teacher in software development.
+_I am a very experienced (30+ years) digital bohemian. 
+I'm currently working as a all round developer, front-end architect, 
+graphic/ux/ui designer, consultant and teacher in software development._
+
+Creativity defines me as a person—both professionally and
+privately, ‘creating’ is the common thread in my life.  
+As I keep trying to stretch the limits of my own knowledge,
+my understanding of, among other things,
+technical issues become increasingly unambiguous, and I
+often see the solutions in layered and defined structures. This, 
+combined with in-depth and broad technical knowledge, allows me to not only
+envision solutions but also design and realise them.
+
+--- 
 
 ![Static Badge](
 https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust)
@@ -34,6 +47,8 @@ https://img.shields.io/badge/oLlama-lightgrey?style=for-the-badge&logo=ollama)
 https://img.shields.io/badge/Arch%20Linux-lightblue?style=for-the-badge&logo=archlinux)
 ![Static Badge](
 https://img.shields.io/badge/MacOS-lightgrey?style=for-the-badge&logo=apple)
+
+---
 
 ## My Showcase projects
 
