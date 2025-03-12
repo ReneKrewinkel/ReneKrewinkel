@@ -15,12 +15,13 @@ envision solutions but also design and realise them.
 
 --- 
 
-![Static Badge](
-https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust)
+
 ![Static Badge](
 https://img.shields.io/badge/react-darkblue?style=for-the-badge&logo=react)
 ![Static Badge](
 https://img.shields.io/badge/react%20native-blue?style=for-the-badge&logo=react)
+![Static Badge](
+https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust)
 ![Static Badge](
 https://img.shields.io/badge/JavaScript-lightyellow?style=for-the-badge&logo=javascript)
 ![Static Badge](
