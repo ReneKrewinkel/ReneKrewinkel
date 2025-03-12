@@ -47,7 +47,6 @@ https://img.shields.io/badge/oLlama-lightgrey?style=for-the-badge&logo=ollama)
 https://img.shields.io/badge/Arch%20Linux-lightblue?style=for-the-badge&logo=archlinux)
 ![Static Badge](
 https://img.shields.io/badge/MacOS-lightgrey?style=for-the-badge&logo=apple)
-
 ![Static Badge](https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm)
 
 ---
