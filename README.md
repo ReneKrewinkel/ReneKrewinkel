@@ -48,7 +48,7 @@ https://img.shields.io/badge/Arch%20Linux-lightblue?style=for-the-badge&logo=arc
 ![Static Badge](
 https://img.shields.io/badge/MacOS-lightgrey?style=for-the-badge&logo=apple)
 ![Static Badge](https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm)
-![Static Badge](https://img.shields.io/badge/zsh-F15A24?style=for-the-badge&logo=zsh)
+![Static Badge](https://img.shields.io/badge/zsh-white?style=for-the-badge&logo=zsh)
 
 ---
 
