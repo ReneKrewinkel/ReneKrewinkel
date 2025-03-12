@@ -38,7 +38,7 @@ https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma)
 ![Static Badge](
 https://img.shields.io/badge/Storybook-pink?style=for-the-badge&logo=storybook)
 ![Static Badge](
-https://img.shields.io/badge/Chromatic-orange?style=for-the-badge&logo=chromatic)
+https://img.shields.io/badge/Chromatic-yellow?style=for-the-badge&logo=chromatic)
 ![Static Badge](
 https://img.shields.io/badge/Open%20AI-grey?style=for-the-badge&logo=openai)
 ![Static Badge](
