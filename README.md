@@ -63,7 +63,7 @@ https://img.shields.io/badge/MacOS-lightgrey?style=for-the-badge&logo=apple)
 - [re:cognition - GitHub](https://github.com/re-cognition-app): The GitHub repository for the re:cognition project
 - [krewinkel.studio](https://krewinkel.studio): My portfolio website
 - [Atomic Bomb](https://atomic-bomb.io): A React productivity booster based upon the [Atomic Design Principles](https://atomicdesign.bradfrost.com)
-- [Idea CLI](https://github.com/ReneKrewinkel/idea-cli): A CLI tool to generate ideas for your next project. Check the [blogpost](https://medium.com/@rene.krewinkel/that-i-love-the-command-line-is-no-secret-to-the-ones-who-know-me-nor-that-i-build-my-own-511d8ed255ea)
+- [Idea CLI](https://idea-cli.io): A CLI tool to generate ideas for your next project. Check the [blogpost](https://medium.com/@rene.krewinkel/that-i-love-the-command-line-is-no-secret-to-the-ones-who-know-me-nor-that-i-build-my-own-511d8ed255ea)
 
 
 ## How to reach me
