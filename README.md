@@ -56,19 +56,17 @@ https://img.shields.io/badge/MacOS-lightgrey?style=for-the-badge&logo=apple)
 
 ## My Showcase projects
 
-### re:cognition
 
 <img src='https://github.com/re-cognition-app/.github/raw/main/img/re-cognition-logo.svg#gh-dark-mode-only' alt='re:cognition'/>
 <img src='https://github.com/re-cognition-app/.github/raw/main/img/re-cognition-logo.svg#gh-light-mode-only' alt='re:cognition'/>
 
-- [re:cognition](https://re-cognition.app): A personal project I'm currently working on to help people who suffer from (cognitive) disabilities. Please check out the website for details.
+[re:cognition](https://re-cognition.app): A personal project I'm currently working on to help people who suffer from (cognitive) disabilities. Please check out the website for details.
 
 
-### room・id
 
 <img src='https://github.com/room-id/.github/raw/main/profile/images/room-id-logo-spacing.svg' alt='room・id' style="height: 160px"/>
 
-- [room・id](https://room-id.org): Investigators are often left with only fragments of images—anonymous hotel rooms that all look the same. These spaces become silent backdrops of exploitation, nearly impossible to identify without the right tools. Every room has a story. We help reveal where it was told.
+[room・id](https://room-id.org): Investigators are often left with only fragments of images—anonymous hotel rooms that all look the same. These spaces become silent backdrops of exploitation, nearly impossible to identify without the right tools. Every room has a story. We help reveal where it was told.
 
 ## Find me on the web
 - [krewinkel.studio](https://krewinkel.studio): My portfolio website
