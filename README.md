@@ -67,7 +67,8 @@ https://img.shields.io/badge/MacOS-lightgrey?style=for-the-badge&logo=apple)
 
 <img src='https://github.com/room-id/.github/raw/main/profile/images/room-id-logo-spacing.svg' alt='room・id' style="height: 160px"/>
 
-[room・id](https://room-id.nl): Investigators are often left with only fragments of images—anonymous hotel rooms that all look the same. These spaces become silent backdrops of exploitation, nearly impossible to identify without the right tools. Every room has a story. We help reveal where it was told.
+[room・id](https://room-id.nl): Investigators are often left with only fragments of images—anonymous hotel rooms that all look the same. These spaces become silent backdrops of exploitation, nearly impossible to identify without the right tools. 
+_Every room has a story. We help reveal where it was told._
 
 ## Find me on the web
 - [krewinkel.studio](https://krewinkel.studio): My portfolio website
