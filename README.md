@@ -56,12 +56,26 @@ https://img.shields.io/badge/MacOS-lightgrey?style=for-the-badge&logo=apple)
 
 ## My Showcase projects
 
+### re:cognition
+
 <img src='https://github.com/re-cognition-app/.github/raw/main/img/re-cognition-logo.svg#gh-dark-mode-only' alt='re:cognition'/>
 <img src='https://github.com/re-cognition-app/.github/raw/main/img/re-cognition-logo.svg#gh-light-mode-only' alt='re:cognition'/>
 
 - [re:cognition](https://re-cognition.app): A personal project I'm currently working on to help people who suffer from (cognitive) disabilities. Please check out the website for details.
-- [re:cognition - GitHub](https://github.com/re-cognition-app): The GitHub repository for the re:cognition project
+
+
+### room・id
+
+<img src='https://github.com/room-id/.github/raw/main/profile/images/room-id-logo-full.svg' alt='room・id'/>
+
+- [room・id](https://room-id.org): Investigators are often left with only fragments of images—anonymous hotel rooms that all look the same. These spaces become silent backdrops of exploitation, nearly impossible to identify without the right tools. Every room has a story. We help reveal where it was told.
+
+## Find me on the web
 - [krewinkel.studio](https://krewinkel.studio): My portfolio website
+- [blog.krewinkel.studio](https://blog.krewinkel.studio): My Tech Blog
+
+- [re:cognition - GitHub](https://github.com/re-cognition-app): The GitHub repository for the re:cognition project
+- [room・id - GitHub](https://github.com/room-id): The GitHub repository for the room-id project
 - [Atomic Bomb](https://atomic-bomb.io): A React productivity booster based upon the [Atomic Design Principles](https://atomicdesign.bradfrost.com)
 - [Idea CLI](https://idea-cli.io): A CLI tool to generate ideas for your next project. Check the [blogpost](https://medium.com/@rene.krewinkel/that-i-love-the-command-line-is-no-secret-to-the-ones-who-know-me-nor-that-i-build-my-own-511d8ed255ea)
 
@@ -84,4 +98,3 @@ https://img.shields.io/badge/MacOS-lightgrey?style=for-the-badge&logo=apple)
 * Figma, Adobe Creative Suite
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's connect and create something amazing together!
-
