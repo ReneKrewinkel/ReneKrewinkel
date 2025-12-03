@@ -88,10 +88,10 @@ https://img.shields.io/badge/MacOS-lightgrey?style=for-the-badge&logo=apple)
 ##  Languages and Tools
 
 * JavaScript / TypeScript
-* NodeJS, React, React Native
+* NodeJS, React, React Native, Expo, NextJS
 * Rust
 * Docker
-* NeoVim, WebStorm
+* NeoVim, WebStorm, Zed
 * OpenAI, Ollama
 * Storybook, Chromatic
 * Figma, Adobe Creative Suite
